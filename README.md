@@ -5,7 +5,7 @@
 - 📫 How to reach me by email
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: proxys dont work
-
+if you know a working proxy please tell me
 <!---
 reherio/reherio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
